@@ -1,0 +1,36 @@
+
+
+/* @import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css'; */
+.p-dialog .p-dialog-content {
+    background: #edf1f6;
+    color: rgba(255, 255, 255, 0.87);
+    padding: 0 1.5rem 2rem 1.5rem;
+}
+
+.dialog-demo .p-button {
+    margin: 0 .5rem 0 0;
+    min-width: 10rem;
+}
+
+.dialog-demo p {
+    margin: 0;
+    line-height: 1.5;
+    background-color: aliceblue;
+}
+
+.dialog-demo .p-dialog .p-button {
+    min-width: 6rem;
+}
+.dialog-demo{
+ background-color: aliceblue;
+}
+
+.p-dialog .p-dialog-footer {
+
+    background: #ffffff !important;
+    color: #ffffff !important;
+
+}
+
+
